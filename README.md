@@ -14,7 +14,7 @@ pydub installed
 # Installation
 1)clone the repository:
 -->if git not installed then --sudo apt-get install git
--->clone the repository using the cmd-- git clone ??
+-->clone the repository using the cmd-- git clone https://github.com/codingpsych72/Audio_it.git
 
 2)Now navigate to the directory where you haved cloned the Audio_it repository
 -->make the "audio.sh" file executable by changing the file permission 
