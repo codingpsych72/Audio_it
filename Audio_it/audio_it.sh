@@ -10,6 +10,7 @@ echo "d8888888b Y8b   88 88     88 888 888   88 88       888  888  "
 echo " "
 echo "The Linux Audio converter:(mp3,mp4,wav)+Youtube Downloader"
 echo " "
+echo "By Mohammed Sharoz github:https://github.com/codingpsych72"
 echo " "
 
 while [ $choice!=4 ] 
