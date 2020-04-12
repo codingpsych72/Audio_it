@@ -6,11 +6,6 @@ python3 installed
 -->sudo add-apt-repository ppa:deadsnakes/ppa
 -->sudo apt-get update
 -->sudo apt-get install python3.7
-pydub installed
--->sudo apt-get update (if system not updated before )
--->sudo apt-get upgrade (if system updated ignore 1 & 2 )
--->pip3 install pydub
-
 # Installation
 1)clone the repository:
 -->if git not installed then --sudo apt-get install git
