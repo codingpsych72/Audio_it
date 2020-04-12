@@ -17,11 +17,13 @@ pydub installed
 -->clone the repository using the cmd-- git clone https://github.com/codingpsych72/Audio_it.git
 
 2)Now navigate to the directory where you haved cloned the Audio_it repository
--->make the "audio.sh" file executable by changing the file permission 
--->using the command - sudo chmod +x audio.sh
+-->make the "change.sh" file executable by changing the file permission 
+-->using the command - sudo chmod +x change.sh
+-->then type the following command in the terminal: sh change.sh 
 
 3)Now lets start the Audio_it by typing
 --> ./audio_it.sh
+-->please wait while the requirements are installed 
 
 4)Thats it now choose what Audio_it should do for you provide the necessary details such as file path
 --> eg: /home/user/directory/filename.format
