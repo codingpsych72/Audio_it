@@ -16,6 +16,7 @@ echo " PLEASE USE PYTHON VERSION 3 AS THE SCRIPT IS WRITTEN IN PY-3"
 echo " INSTALLING REQUIREMENTS....................................."
 pip3 install tqdm
 pip3 install pydub
+pip3 install pytube3
 echo "*************************************************************"
 echo "please provide your sudo password to install ffmpeg"
 echo "*************************************************************"
